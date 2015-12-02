@@ -1,4 +1,4 @@
-<img src="citrus-logo@2x.png" alt="Citrus CSS logo" title="Citrus CSS logo" style="width: 352px; height: 190px;"/>
+<img src="citrus-logo@2x.png" alt="Citrus CSS logo" title="Citrus CSS logo" width="352" height="190"/>
 
 #Citrus CSS
 A lightweight CSS/SCSS framework.
