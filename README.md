@@ -1,4 +1,5 @@
-Citrus logo - TBD
+![Citrus CSS logo](citrus-logo@2x.png "Citrus CSS logo" =352x190)
+
 #Citrus CSS
 A lightweight CSS/SCSS framework.
 
