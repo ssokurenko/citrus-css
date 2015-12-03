@@ -66,3 +66,58 @@ a img {
 article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary {
   display: block;
 }
+
+/* line 1, ../sass/basic/_tags.scss */
+body {
+  font-family: "Georgia,Cambria," Times New Roman ",Times,serif";
+  letter-spacing: .01rem;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 21px;
+  line-height: 1.58;
+  letter-spacing: -0.003em;
+}
+
+/* line 11, ../sass/basic/_tags.scss */
+h1, h2, h3, h4, h5, h6, h7 {
+  display: block;
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+  font-weight: 700;
+  font: auto;
+  font-size: auto;
+}
+
+/* line 19, ../sass/basic/_tags.scss */
+h1 {
+  font-size: 2em;
+}
+
+/* line 23, ../sass/basic/_tags.scss */
+h2 {
+  font-size: 1.5em;
+}
+
+/* line 27, ../sass/basic/_tags.scss */
+h3 {
+  font-size: 1.33em;
+}
+
+/* line 31, ../sass/basic/_tags.scss */
+h4 {
+  font-size: 1.17em;
+}
+
+/* line 35, ../sass/basic/_tags.scss */
+h5 {
+  font-size: 0.83em;
+}
+
+/* line 39, ../sass/basic/_tags.scss */
+h6 {
+  font-size: 0.67em;
+}
+
+/* line 43, ../sass/basic/_tags.scss */
+p {
+  margin: 0.8em auto;
+}
