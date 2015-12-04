@@ -1,2 +1,5 @@
-$CITRUS-TITLE-FONT: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
-$CITRUS-TEXT-FONT: "Georgia,Cambria,"Times New Roman",Times,serif";
+// Bitter font
+@import url(https://fonts.googleapis.com/css?family=Bitter:700&subset=latin,latin-ext);
+
+$CITRUS-TITLE-FONT: "Bitter", "Times New Roman", Times, serif;
+$CITRUS-TEXT-FONT: Georgia, Cambria, "Times New Roman", Times, serif

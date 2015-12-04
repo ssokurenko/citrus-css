@@ -2,6 +2,7 @@
  * In this file you should write your main styles. (or centralize your imports)
  * Import this file using the following HTML or equivalent:
  * <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" /> */
+@import url(https://fonts.googleapis.com/css?family=Bitter:700&subset=latin,latin-ext);
 /* line 5, ../../../../../Library/Ruby/Gems/2.0.0/gems/compass-core-1.1.0.alpha.3/stylesheets/compass/reset/_utilities.scss */
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
@@ -69,7 +70,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
 
 /* line 1, ../sass/basic/_tags.scss */
 body {
-  font-family: "Georgia,Cambria," Times New Roman ",Times,serif";
+  font-family: Georgia, Cambria, "Times New Roman", Times, serif;
   letter-spacing: .01rem;
   font-weight: 400;
   font-style: normal;
@@ -81,7 +82,7 @@ body {
 /* line 11, ../sass/basic/_tags.scss */
 h1, h2, h3, h4, h5, h6, h7 {
   display: block;
-  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+  font-family: "Bitter", "Times New Roman", Times, serif;
   font-weight: 700;
   font: auto;
   font-size: auto;
@@ -120,4 +121,11 @@ h6 {
 /* line 43, ../sass/basic/_tags.scss */
 p {
   margin: 0.8em auto;
+}
+
+/* line 1, ../sass/basic/_elements.scss */
+.box {
+  display: block;
+  margin: 10px;
+  padding: 10px;
 }
